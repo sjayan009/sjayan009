@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-label="Sliders for energy, danceability, tempo and acoustics feeding a live genre prediction">
+<rect width="640" height="260" rx="12" fill="#0f1216"/>
+<rect x="28" y="28" width="296" height="204" rx="12" fill="#171b21" stroke="#2a3038"/>
+<text x="50" y="66" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#8a919a" text-anchor="start">Tune the sound</text>
+<text x="50" y="100" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#b4bac1" text-anchor="start">Energy</text>
+<rect x="50" y="109" width="252" height="5" rx="2.5" fill="#2e353e"/><rect x="50" y="109" width="207" height="5" rx="2.5" fill="#1ed760"/><circle cx="257" cy="111.5" r="9" fill="#e6e8eb"/>
+<text x="50" y="136" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#b4bac1" text-anchor="start">Danceability</text>
+<rect x="50" y="145" width="252" height="5" rx="2.5" fill="#2e353e"/><rect x="50" y="145" width="186" height="5" rx="2.5" fill="#1ed760"/><circle cx="236" cy="147.5" r="7" fill="#e6e8eb"/>
+<text x="50" y="172" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#b4bac1" text-anchor="start">Tempo</text>
+<text x="302" y="172" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="400" fill="#8a919a" text-anchor="end">128 BPM</text>
+<rect x="50" y="181" width="252" height="5" rx="2.5" fill="#2e353e"/><rect x="50" y="181" width="146" height="5" rx="2.5" fill="#1ed760"/><circle cx="196" cy="183.5" r="7" fill="#e6e8eb"/>
+<text x="50" y="208" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#b4bac1" text-anchor="start">Acoustic</text>
+<rect x="50" y="217" width="252" height="5" rx="2.5" fill="#2e353e"/><rect x="50" y="217" width="30" height="5" rx="2.5" fill="#1ed760"/><circle cx="80" cy="219.5" r="7" fill="#e6e8eb"/>
+<path d="M334 130 H364" stroke="#b4bac1" stroke-width="2"/><path d="M356 124 L364 130 L356 136" fill="none" stroke="#b4bac1" stroke-width="2"/>
+<text x="378" y="66" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#8a919a" text-anchor="start">Predicted genre</text>
+<text x="378" y="106" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="650" fill="#e6e8eb" text-anchor="start">Dance pop</text>
+<text x="612" y="106" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="650" fill="#e6e8eb" text-anchor="end">64%</text>
+<rect x="378" y="117" width="234" height="6" rx="3" fill="#262c34"/><rect x="378" y="117" width="150" height="6" rx="3" fill="#1ed760"/>
+<text x="378" y="154" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="400" fill="#b4bac1" text-anchor="start">Latin pop</text>
+<text x="612" y="154" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#8a919a" text-anchor="end">22%</text>
+<rect x="378" y="165" width="234" height="6" rx="3" fill="#262c34"/><rect x="378" y="165" width="51" height="6" rx="3" fill="#6b727b"/>
+<text x="378" y="202" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="400" fill="#b4bac1" text-anchor="start">Pop</text>
+<text x="612" y="202" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#8a919a" text-anchor="end">14%</text>
+<rect x="378" y="213" width="234" height="6" rx="3" fill="#262c34"/><rect x="378" y="213" width="33" height="6" rx="3" fill="#6b727b"/>
+<rect x="1" y="1" width="638" height="258" rx="12" fill="none" stroke="#d6e3f9" stroke-opacity=".17" stroke-width="2"/>
+</svg>

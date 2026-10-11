@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-label="Work orders go to an AI that estimates them, then a human reviews and approves">
+<rect width="640" height="260" rx="12" fill="#0f1216"/>
+<rect x="66" y="58" width="92" height="92" rx="24" fill="#1a1f26" stroke="#2c333c"/><path d="M95 86 H90 V128 H134 V86 H129" fill="none" stroke="#e6e8eb" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/><rect x="102" y="80" width="20" height="11" rx="3" fill="none" stroke="#e6e8eb" stroke-width="3.2"/><path d="M100 103 H124 M100 115 H118" fill="none" stroke="#e6e8eb" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="112" y="204" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="650" fill="#e6e8eb" text-anchor="middle">Work Orders</text>
+<rect x="274" y="58" width="92" height="92" rx="24" fill="#5b9cf6" stroke="#5b9cf6"/><path d="M316 87 C319.6 103.4 319.6 103.4 336 107 C319.6 110.6 319.6 110.6 316 127 C312.4 110.6 312.4 110.6 296 107 C312.4 103.4 312.4 103.4 316 87 Z" fill="#0f1216"/><path d="M334 81 C335.44 87.56 335.44 87.56 342 89 C335.44 90.44 335.44 90.44 334 97 C332.56 90.44 332.56 90.44 326 89 C332.56 87.56 332.56 87.56 334 81 Z" fill="#0f1216"/>
+<text x="320" y="204" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="650" fill="#e6e8eb" text-anchor="middle">AI Estimates</text>
+<rect x="482" y="58" width="92" height="92" rx="24" fill="#1a1f26" stroke="#2c333c"/><circle cx="523" cy="94" r="9" fill="none" stroke="#e6e8eb" stroke-width="3.2"/><path d="M505 126 C507 110 539 110 541 126" fill="none" stroke="#e6e8eb" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="545" cy="110" r="11" fill="#5b9cf6"/><path d="M540 110 L543.5 113.5 L550 106" fill="none" stroke="#0f1216" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="528" y="204" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="650" fill="#e6e8eb" text-anchor="middle">Human Review</text>
+<path d="M211 94 L221 104 L211 114" fill="none" stroke="#6b727b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M419 94 L429 104 L419 114" fill="none" stroke="#6b727b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1" y="1" width="638" height="258" rx="12" fill="none" stroke="#d6e3f9" stroke-opacity=".17" stroke-width="2"/>
+</svg>

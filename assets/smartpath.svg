@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-label="A machine learning knowledge graph feeding a generated quiz question about overfitting">
+<rect width="640" height="260" rx="12" fill="#0f1216"/>
+<path d="M180 130 L96 50" stroke="#3a414b" stroke-width="2"/><path d="M180 130 L262 50" stroke="#3a414b" stroke-width="2"/><path d="M180 130 L180 212" stroke="#3a414b" stroke-width="2"/>
+<rect x="76" y="110" width="209" height="40" rx="20" fill="#e8b04b" stroke="#e8b04b"/><text x="180" y="137" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="650" fill="#0f1216" text-anchor="middle">Machine learning</text>
+<rect x="29" y="30" width="133" height="40" rx="20" fill="#171b21" stroke="#2a3038"/><text x="96" y="57" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#e6e8eb" text-anchor="middle">Regression</text>
+<rect x="191" y="30" width="143" height="40" rx="20" fill="#171b21" stroke="#2a3038"/><text x="262" y="57" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#e6e8eb" text-anchor="middle">Neural nets</text>
+<rect x="109" y="192" width="143" height="40" rx="20" fill="#171b21" stroke="#2a3038"/><text x="180" y="219" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#e6e8eb" text-anchor="middle">Overfitting</text>
+<path d="M334 130 H366" stroke="#b4bac1" stroke-width="2"/><path d="M358 124 L366 130 L358 136" fill="none" stroke="#b4bac1" stroke-width="2"/>
+<rect x="380" y="28" width="232" height="204" rx="12" fill="#171b21" stroke="#2a3038"/>
+<text x="402" y="66" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#8a919a" text-anchor="start">Quiz</text>
+<text x="402" y="102" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="650" fill="#e6e8eb" text-anchor="start">What reduces</text>
+<text x="402" y="130" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="650" fill="#e6e8eb" text-anchor="start">overfitting?</text>
+<circle cx="413" cy="168" r="11" fill="#e8b04b"/><path d="M408 168 L411.5 171.5 L418 164.5" fill="none" stroke="#0f1216" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="434" y="175" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="400" fill="#e6e8eb" text-anchor="start">More data</text>
+<circle cx="413" cy="206" r="10" fill="none" stroke="#5a616b" stroke-width="2"/><text x="434" y="213" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="400" fill="#b4bac1" text-anchor="start">More epochs</text>
+<rect x="1" y="1" width="638" height="258" rx="12" fill="none" stroke="#d6e3f9" stroke-opacity=".17" stroke-width="2"/>
+</svg>
