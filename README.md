@@ -1,104 +1,80 @@
-<h1 align="center">Hi, I'm Jayan 👋</h1>
+# Jayan Sirikonda
 
-<!-- Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjayan009&hide_border=true&background=0d1117&stroke=A371F7&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
-</p>
+**Software engineering · Applied AI/ML · Data systems**  
+Computer Science at the **Georgia Institute of Technology** · B.S. expected May 2028 · Atlanta, GA
 
----
+I build software that makes AI **useful, testable, and dependable**—from enterprise workflows and data pipelines to full-stack applications. My work spans backend engineering, applied machine learning, and research, with an emphasis on evidence, failure handling, and systems that hold up outside a demo.
 
-## 🚀 Overview
+[**Portfolio**](https://personal-website-local-lead.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/jayan-sirikonda/) · [**Email**](mailto:jsirikonda3@gatech.edu) · [**Published research**](https://doi.org/10.47611/jsrhs.v13i2.6794)
 
-- Computer Science student at Georgia Tech focused on applied AI, full-stack development, data systems, and automation.
-- Building AI-powered workflows with RAG, LangGraph, FastAPI, PostgreSQL/pgvector, and modern LLM tooling.
-- Experienced across frontend interfaces, backend services, databases, machine learning pipelines, and deployment workflows.
-- Interested in agentic systems, knowledge graphs, intelligent search, data-driven products, and practical ML applications.
+> **Looking ahead:** Interested in Summer 2027 software engineering and AI/ML engineering internships, research, and opportunities to build technically ambitious products.
 
----
+## Engineering experience
 
-## 🧰 Tech Stack
+- **PowerPlan — AI & Modernization Intern (Summer 2026).** Worked on enterprise AI for asset-policy review and capital work-order estimation. Built agentic/retrieval-based workflows with human review, improved LLM pipeline concurrency, and strengthened reliability in multi-tenant PostgreSQL systems. [Internship reflection ↗](https://www.linkedin.com/posts/jayan-sirikonda_powerplan-ai-internship-activity-7492949610026635264-7AMV)
+- **Georgia Tech Grover Lab — Undergraduate Research Assistant, AI Full Stack (Summer 2026).** Built an auditable TypeScript/Node.js pipeline that extracts structured materials-science measurements from papers. Identified **44 of 46 samples** with **98.0% reported association accuracy** on a five-paper development corpus, supported by **50+ automated tests** and replayable evaluations.
+- **The Jackson Laboratory — Research Assistant, Tumor Gene Expression (2024–2025).** Developed and evaluated XGBoost models on **16,000 gene-expression profiles** across **33 tumor types**, reaching **98.5% classification accuracy** in the research evaluation.
 
-| Category | Tools & Technologies |
-|---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
-| Frontend | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
-| Backend & Data | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white) |
-| AI, ML & Agents | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-412991?logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?logo=xgboost&logoColor=white) |
-| Cloud & Tools | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) |
----
+*Earlier AI and data experience:* NeuralSeek (AI Agent Builder Intern) and developerDB (Python Data Analytics Intern), both in 2025.
 
-## ⭐ Featured Projects
+*Company and research code is not necessarily public; the repositories below showcase work I can share.*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected projects
 
-#### 🧪 [AccessAidIQ](https://github.com/sjayan009/AccessAidIQ)
-An AI release-readiness agent that reviews product specs for accessibility, Responsible AI, privacy, and launch risks, then generates prioritized fixes, tests, GitHub-ready issues, and traceable reports.
+### [ProofVoice — synthetic speech detection](https://github.com/sjayan009/HackGT13-Proof-Voice)
+**Applied ML · Audio forensics · FastAPI · Next.js · Docker**
 
-<sub>![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)</sub>
+Built for **HackGT 13 / NSA HEARSAY**. Detects and localizes synthetic speech, supports streaming analysis, and presents forensic evidence with explicit uncertainty. The repository reports **1.53% EER** and **0.039 minDCF** on its documented validation setting.
 
-</td>
-<td width="50%" valign="top">
+[Code & architecture](https://github.com/sjayan009/HackGT13-Proof-Voice) · [Evaluation methodology](https://github.com/sjayan009/HackGT13-Proof-Voice/blob/main/RESULTS.md) · [1:40 demo](https://youtu.be/hpHuJdQuLgU)
 
-#### 🌐 [LocalLead](https://github.com/sjayan009/LocalLead)
-A full-stack lead-management MVP for local-business website outreach, combining lead discovery, website checks, demo landing pages, admin review, outreach drafts, Supabase auth, and Stripe setup links.
+### [DevBridge — evidence-backed debugging](https://github.com/sjayan009/IBM-Bobathon-2026)
+**Software engineering · AI-assisted debugging · TypeScript/Node.js · Testing**
 
-<sub>![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white)</sub>
+Built for **IBM Bobathon 2026**. Reproduces environment-specific failures, investigates root-cause hypotheses, compares candidate repairs, and issues a proof artifact only after deterministic tests and adversarial checks pass.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[Code](https://github.com/sjayan009/IBM-Bobathon-2026) · [Verification & evaluations](https://github.com/sjayan009/IBM-Bobathon-2026/blob/main/VERIFICATION_AND_EVALS.md)
 
-#### 🎓 [YHack2026 / Forge](https://github.com/sjayan009/YHack2026)
-An adaptive AI coding mentor for younger developers that tracks coding behavior, switches between coaching personas, and guides learners through a mission-based programming curriculum.
+### [AccessAid IQ — AI release-readiness agent](https://github.com/sjayan009/AccessAidIQ)
+**Multi-agent systems · Python · Streamlit · Azure integrations · Testing**
 
-<sub>![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white)</sub>
+Reviews product specifications for accessibility, privacy, responsible AI, and launch risks; produces prioritized fixes and GitHub-ready issues. Its live-service and offline/synthetic modes are **explicitly distinguished** rather than presented as equivalent.
 
-</td>
-<td width="50%" valign="top">
+[Code & architecture](https://github.com/sjayan009/AccessAidIQ)
 
-#### 🧭 [Smart-Path-AI](https://github.com/gt-big-data/Smart-Path-AI)
-A collaborative learning platform with a Vite/React frontend and Node/MongoDB backend, built around graph-based study flows and interactive learning-path visualization.
+### [LocalLead — full-stack lead management](https://github.com/sjayan009/LocalLead)
+**Next.js · React · TypeScript · Supabase/PostgreSQL · Stripe**
 
-<sub>![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![React Flow](https://img.shields.io/badge/-React_Flow-FF0072?logo=react&logoColor=white)</sub>
+Built a human-reviewed business-lead workflow covering discovery, website checks, unofficial demo pages, outreach drafts, administrative review, and payment-link setup.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[Code](https://github.com/sjayan009/LocalLead)
 
-#### 🤖 [24-25 Scouting Hartford](https://github.com/sjayan009/24-25_ScoutingHartford)
-A customized FRC scouting workflow based on Scouting P.A.S.S., designed for low-bandwidth event data collection, QR-code transfer, pit scouting, and configurable match metrics.
+### [SmartPath AI — interactive knowledge graphs](https://github.com/gt-big-data/Smart-Path-AI)
+**React · Node.js · MongoDB · Graph visualization**
 
-<sub>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![FRC](https://img.shields.io/badge/-FRC-CC0000)</sub>
+Contributed to Georgia Tech's student-facing knowledge-graph experience through graph-connection improvements, deduplication, and dynamic sizing. Reduced graph redundancy by **40%** in project work.
 
-</td>
-<td width="50%" valign="top">
+[Collaborative repository](https://github.com/gt-big-data/Smart-Path-AI)
 
-#### ☕ [Passion Project](https://github.com/sjayan009/Passion-Project)
-A Java Swing and MySQL application for school event participation, with form validation, recurring-event date generation, JDBC persistence, and chart-based student point summaries.
+**More builds:** [Forge — adaptive coding mentor (YHack)](https://github.com/sjayan009/YHack2026) · [Genrify — ML + visualization workshop (BDBI)](https://github.com/sjayan009/BDBI-Workshop-Fall-2026) · [FRC scouting system](https://github.com/sjayan009/24-25_ScoutingHartford)
 
-<sub>![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/-Swing-5382A1) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![JFreeChart](https://img.shields.io/badge/-JFreeChart-4B8BBE)</sub>
+## What I work with
 
-</td>
-</tr>
-</table>
+| Focus | Tools and technologies |
+| --- | --- |
+| **Languages** | Python, Java, TypeScript, JavaScript, SQL |
+| **AI / ML** | LangGraph, LLMs, retrieval-augmented generation, XGBoost, scikit-learn, evaluation pipelines |
+| **Backend / data** | FastAPI, Node.js, PostgreSQL, pgvector, MongoDB, REST APIs, Docker |
+| **Product engineering** | React, Next.js, Supabase, automated testing, Git |
+
+## Research and leadership
+
+- **Published research (2024):** [*Evaluating Machine Learning Techniques for Web Robot Detection*](https://doi.org/10.47611/jsrhs.v13i2.6794), co-authored with Mahdieh Zabihimayvan, *Journal of Student Research*, 13(2).
+- **Big Data Big Impact (Georgia Tech):** Board member leading data-visualization workshop development and contributing to SmartPath AI.
+- **Joint Financial Data Committee (Georgia Tech SGA):** ML project lead working on anomaly detection and reproducible financial-data ETL.
 
 ---
 
-## 📫 Let's Connect
+**I care about the gap between a working prototype and trustworthy software.** If you're building in software engineering, AI/ML, developer tooling, or data-intensive products, I'd love to connect.
 
-<p align="center">
-  <a href="mailto:jsirikonda3@gatech.edu">
-    <img src="https://img.shields.io/badge/Email-A371F7?logo=gmail&logoColor=white" alt="Email Jayan" />
-  </a>
-  <a href="https://www.linkedin.com/in/jayan-sirikonda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  Open to internships, research collaborations, hackathons, and ambitious AI product work.
-</p>
+[LinkedIn](https://www.linkedin.com/in/jayan-sirikonda/) · [Email](mailto:jsirikonda3@gatech.edu) · [Portfolio source](https://github.com/sjayan009/personal-website)
