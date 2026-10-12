@@ -2,9 +2,7 @@
 <p align="center"><strong>Software Engineering · Applied AI/ML · FDE · Full-Stack Development</strong><br/>
 Computer Science @ <strong>Georgia Institute of Technology</strong> · Class of 2028 · Atlanta, GA</p>
 
-<p align="center">I build AI-powered software and reliable data systems, from enterprise LLM workflows and research pipelines to interactive applications. I care about turning technically ambitious ideas into products that are <strong>useful, testable, and dependable</strong>.</p>
-
-<p align="center"><a href="https://personal-website-local-lead.vercel.app">Portfolio</a> · <a href="https://www.linkedin.com/in/jayan-sirikonda/">LinkedIn</a> · <a href="mailto:jsirikonda3@gatech.edu">Email</a></p>
+<p align="center"><a href="https://personal-website-local-lead.vercel.app">Portfolio</a> · <a href="https://www.linkedin.com/in/jayan-sirikonda/">LinkedIn</a> · <a href="mailto:jsirikonda3@gatech.edu">Email</a> · <a href="https://doi.org/10.47611/jsrhs.v13i2.6794">Publication</a></p>
 
 ---
 
@@ -72,6 +70,7 @@ Computer Science @ <strong>Georgia Institute of Technology</strong> · Class of 
 <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logoColor=white&amp;logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&amp;logoColor=white&amp;logo=kubernetes" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logoColor=white&amp;logo=vercel" alt="Vercel" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&amp;logoColor=white&amp;logo=databricks" alt="Databricks" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logoColor=white&amp;logo=git" alt="Git" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logoColor=white&amp;logo=githubactions" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&amp;logoColor=white&amp;logo=pytest" alt="pytest" /></td>
 </tr>
 </table>
+
 ---
 
 ## Let's Connect
@@ -80,4 +79,3 @@ I'm interested in **Summer 2027 Software Engineering and AI/ML Engineering inter
 
 [**LinkedIn**](https://www.linkedin.com/in/jayan-sirikonda/) · [**Portfolio**](https://personal-website-local-lead.vercel.app) · [**Email**](mailto:jsirikonda3@gatech.edu)
 
-*Building software that works beyond the demo.*
