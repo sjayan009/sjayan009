@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jayan</h1>
+<h1 align="center">I'm Jayan!</h1>
 <p align="center"><strong>Software Engineering · Applied AI/ML · FDE · Full-Stack Development</strong><br/>
 Computer Science @ <strong>Georgia Institute of Technology</strong> · Class of 2028 · Atlanta, GA</p>
 
