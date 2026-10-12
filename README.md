@@ -2,7 +2,7 @@
 <p align="center"><strong>Software Engineering · Applied AI/ML · FDE · Full-Stack Development</strong><br/>
 Computer Science @ <strong>Georgia Institute of Technology</strong> · Class of 2028 · Atlanta, GA</p>
 
-<p align="center"><a href="https://personal-website-local-lead.vercel.app">Portfolio</a> · <a href="https://www.linkedin.com/in/jayan-sirikonda/">LinkedIn</a> · <a href="mailto:jsirikonda3@gatech.edu">Email</a> · <a href="https://doi.org/10.47611/jsrhs.v13i2.6794">Publication</a></p>
+<p align="center"><a href="https://personal-website-local-lead.vercel.app">Portfolio</a> · <a href="https://www.linkedin.com/in/jayan-sirikonda/">LinkedIn</a> · <a href="mailto:jsirikonda3@gatech.edu">Email</a> · <a href="https://www.semanticscholar.org/paper/Evaluating-Machine-Learning-Techniques-for-Web-Sirikonda-Zabihimayvan/b2dc57f10d075483573a118262dd339551ffec4a">Publication</a></p>
 
 ---
 
